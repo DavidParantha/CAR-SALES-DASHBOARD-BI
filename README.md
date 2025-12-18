@@ -71,8 +71,8 @@ Future improvements may include sales forecasting, demand prediction, real-time 
 ## Conclusion
 
 This project demonstrates a complete business intelligence workflow, from data preparation and modeling to interactive dashboard design. It showcases practical Power BI skills and serves as a strong portfolio project for analytics and business intelligence roles.
+ <img width="1322" height="751" alt="Screenshot 2025-12-18 223541" src="https://github.com/user-attachments/assets/29338dd5-1d5c-4c87-aa97-2c84aa2104c6" />
  <img width="1322" height="752" alt="Screenshot 2025-12-18 223621" src="https://github.com/user-attachments/assets/d85c30b6-158b-4040-89b1-760f2143fb16" />
-<img width="1322" height="751" alt="Screenshot 2025-12-18 223541" src="https://github.com/user-attachments/assets/29338dd5-1d5c-4c87-aa97-2c84aa2104c6" />
 <img width="1554" height="789" alt="Screenshot 2025-12-18 223050" src="https://github.com/user-attachments/assets/0d394d4e-fe94-4a79-89db-56e6024444d8" />
 <img width="311" height="687" alt="Screenshot 2025-12-18 222159" src="https://github.com/user-attachments/assets/f45230e1-649f-4417-9f2b-672be912a387" />
 <img width="330" height="703" alt="Screenshot 2025-12-18 222102" src="https://github.com/user-attachments/assets/db990822-01bd-425c-814b-1e96b3ddb057" />
