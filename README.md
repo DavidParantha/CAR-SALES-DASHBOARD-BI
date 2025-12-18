@@ -78,5 +78,6 @@ This project demonstrates a complete business intelligence workflow, from data p
 <img width="330" height="703" alt="Screenshot 2025-12-18 222102" src="https://github.com/user-attachments/assets/db990822-01bd-425c-814b-1e96b3ddb057" />
 
 
+ linkdin page url : https://github.com/DavidParantha/CAR-SALES-DASHBOARD-BI/blob/main/README.md
  
 
